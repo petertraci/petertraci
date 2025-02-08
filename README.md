@@ -1,6 +1,3 @@
-- 👋 Hello world, I’m Peter Traci
-- 👀 I’m interested in building, creating, backpacking, and homesteading.
-- 🌱 I’m currently learning to be a full stack software engineer.
-- 💞️ I’m looking to collaborate on any and all projects!
-- 📫 How to reach me: @petertracii on X, etc.
-- ⚡ Fun fact: I want to have a successfull software career so I can build homesteads and be one with our natural world.
+👋 Hey universe, I’m Peter Traci
+🌱 I’m a passionate backpacker, kayaker, snowboarder, and web developer.
+📫 I’m looking to collaborate on any and all projects! Reach me @petertracii on X, etc.
